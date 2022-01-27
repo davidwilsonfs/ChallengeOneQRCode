@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/main.33f49284.chunk.js",
+    "main.js.map": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/main.33f49284.chunk.js.map",
+    "runtime-main.js": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/runtime-main.e62aa152.js",
+    "runtime-main.js.map": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/runtime-main.e62aa152.js.map",
+    "static/js/2.ad0d4746.chunk.js": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/2.ad0d4746.chunk.js",
+    "static/js/2.ad0d4746.chunk.js.map": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/2.ad0d4746.chunk.js.map",
+    "static/js/3.9d3f17d5.chunk.js": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/3.9d3f17d5.chunk.js",
+    "static/js/3.9d3f17d5.chunk.js.map": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/3.9d3f17d5.chunk.js.map",
+    "index.html": "https://davidwilsonfs.github.io/ChallengeOneQRCode/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ad0d4746.chunk.js.LICENSE.txt": "https://davidwilsonfs.github.io/ChallengeOneQRCode/static/js/2.ad0d4746.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e62aa152.js",
+    "static/js/2.ad0d4746.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.33f49284.chunk.js"
+  ]
+}
