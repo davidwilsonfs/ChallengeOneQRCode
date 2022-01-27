@@ -30,3 +30,7 @@ Example:
 
 "{\"ativo\":\"bomba\", \"tombamento\": \"25566995\", \"unidade\":\"recife\", \"setor\": \"CP-4\"}"
 ````
+
+### App Deploy
+
+Access this link to view the deploy https://davidwilsonfs.github.io/ChallengeOneQRCode/
